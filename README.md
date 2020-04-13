@@ -1,7 +1,7 @@
 # CMPSC 100-02 Practical Session 10
 
 * Assigned: 30 March 2020
-* Due: 8 April 2020 by 11:00 AM
+* Due: 27 April 2020 by 11:00 AM
 * Point value: 10
 
 In this practical session we explore `iterators` and `while` loops and their role in completing moderately complex tasks.
